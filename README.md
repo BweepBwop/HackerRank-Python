@@ -11,6 +11,10 @@ This will be my daily coding practice for python, as my new years' resolution I 
 ## Progress so Far
 - [ ] Day 1: Say "Hello, World!" With Python - finished today January 1, 2025
 - [ ] Day 1: Arithmetic Operators - finished today January 1, 2025
+- [ ] Day 1: Python: Division - finished today January 1, 2025 
+- [ ] Day 2: Write a function - finished today January 2, 2025
+- [ ] Day 2: Loops - finished today January 2, 2025
+- [ ] Day 2: Print Function - finished today January 2, 2025
 
 
 ## Here is the link to the challenge:
