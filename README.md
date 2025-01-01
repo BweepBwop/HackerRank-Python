@@ -15,6 +15,7 @@ This will be my daily coding practice for python, as my new years' resolution I 
 - [ ] Day 2: Write a function - finished today January 2, 2025
 - [ ] Day 2: Loops - finished today January 2, 2025
 - [ ] Day 2: Print Function - finished today January 2, 2025
+- [ ] Day 2: If-else - finished today January 2, 2025
 
 
 ## Here is the link to the challenge:
