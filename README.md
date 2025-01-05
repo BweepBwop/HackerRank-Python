@@ -16,6 +16,8 @@ This will be my daily coding practice for python, as my new years' resolution I 
 - [ ] Day 2: Loops - finished today January 2, 2025
 - [ ] Day 2: Print Function - finished today January 2, 2025
 - [ ] Day 2: If-else - finished today January 2, 2025
+- [ ] Day 4: Find the Runner-Up Score! - finished today on Jan 3, 2025
+- [ ] Day 5: Nested list - finished today Jan 5, 2025  (I skipped day 4 due to a busy schedule)
 
 
 ## Here is the link to the challenge:
